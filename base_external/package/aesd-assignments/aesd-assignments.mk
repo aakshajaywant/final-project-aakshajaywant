@@ -6,8 +6,8 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '#COMMIT VERSION NUMBER'
-AESD_ASSIGNMENTS_SITE = '#GITHUB REPOSITORY LINK'
+AESD_ASSIGNMENTS_VERSION = b6306651819f8a276f67942ed0364544f0270dde
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/final-project-atharvdesai1996.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
 
@@ -17,7 +17,7 @@ endef
 
 #TODO: Add required executables or scripts below
 define AESD_ASSIGNMENTS_INSTALL_TARGET_CMDS
-	$(INSTALL) -m 0755 $(@D)/writer $(TARGET_DIR)/bin
+	$(INSTALL) -m 0755 $(@D)/test $(TARGET_DIR)/bin
 endef
 
 
