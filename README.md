@@ -10,3 +10,9 @@ PROJECT OVERVIEW AVAILABLE AT:
 
 >> [SCHEDULE](https://github.com/cu-ecen-5013/final-project-atharvdesai1996/wiki/Schedule)
 
+
+PROJECT MEMBERS:
+
+>> Atharv Desai
+>> Rucha Borwankar
+
