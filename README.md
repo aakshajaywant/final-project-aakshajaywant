@@ -13,7 +13,9 @@ PROJECT OVERVIEW AVAILABLE AT:
 
 PROJECT MEMBERS:
 
->> [Atharv Desai](https://github.com/cu-ecen-5013/final-project-atharvdesai1996.git)
+>> [AAKSHA JAYWANT](https://github.com/cu-ecen-5013/final-project-aakshajaywant.git)
 
->> [Rucha Borwankar](https://github.com/cu-ecen-5013/final-project-ruchaborwankar.git)
+>> [ATHARV DESAI](https://github.com/cu-ecen-5013/final-project-atharvdesai1996.git)
+
+>> [RUCHA BORWANKAR](https://github.com/cu-ecen-5013/final-project-ruchaborwankar.git)
 
