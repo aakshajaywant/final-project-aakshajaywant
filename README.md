@@ -14,5 +14,6 @@ PROJECT OVERVIEW AVAILABLE AT:
 PROJECT MEMBERS:
 
 >> Atharv Desai
+
 >> Rucha Borwankar
 
