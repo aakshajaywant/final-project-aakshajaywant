@@ -8,7 +8,7 @@
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 #old version working:AESD_ASSIGNMENTS_VERSION = a6d535254f6568a8cb515b56399ab9e754bda70a
 
-AESD_ASSIGNMENTS_VERSION = b89c6ad6398ef9a46372d01d8fdc9a4f28f01aae  
+AESD_ASSIGNMENTS_VERSION = be99740cc29b490859307e707a2fa9a07809dcab
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/final-project-atharvdesai1996.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
@@ -26,6 +26,7 @@ define AESD_ASSIGNMENTS_INSTALL_TARGET_CMDS
 	$(INSTALL) -m 0755 $(@D)/writetobb $(TARGET_DIR)/bin
 	$(INSTALL) -m 0755 $(@D)/aesdsocket $(TARGET_DIR)/bin
 	$(INSTALL) -m 0755 $(@D)/socketclient $(TARGET_DIR)/bin
+	$(INSTALL) -m 0755 $(@D)/aesdsocket_uart $(TARGET_DIR)/bin
 
 endef
 
